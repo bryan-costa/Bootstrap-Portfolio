@@ -1,0 +1,20 @@
+body{
+    background-color: lightgray;
+}
+#header_row{
+    border-bottom: 2px solid lightgray;
+    margin-bottom: 15px;
+}
+#AM_Head{
+    margin-bottom:0;
+}
+/* Container */
+.container-fluid{
+    background-color: white;
+    max-width: 95%;
+    padding: 1rem 2rem 2rem 2rem;
+}
+/* Image Handling */
+.img-fluid{
+    width: 80%;
+}
